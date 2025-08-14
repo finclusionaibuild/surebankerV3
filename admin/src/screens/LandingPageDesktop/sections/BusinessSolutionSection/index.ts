@@ -1,1 +1,0 @@
-export { BusinessSolutionSection } from "./BusinessSolutionSection";
