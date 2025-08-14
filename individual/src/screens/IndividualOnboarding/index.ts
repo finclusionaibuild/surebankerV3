@@ -1,0 +1,1 @@
+export { IndividualOnboarding } from "./IndividualOnboarding";
