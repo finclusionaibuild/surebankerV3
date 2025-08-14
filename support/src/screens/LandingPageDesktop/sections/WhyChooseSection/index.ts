@@ -1,1 +1,0 @@
-export { WhyChooseSection } from "./WhyChooseSection.tsx";

@@ -1,1 +1,0 @@
-export { LandingPageDesktop } from "./LandingPageDesktop";
