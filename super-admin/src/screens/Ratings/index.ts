@@ -1,1 +1,0 @@
-export { Ratings } from "./Ratings";
